@@ -2,7 +2,7 @@
 <h4 align="center"> I'm passionate front-end web developer from India <h4>
   <!-- Something about me -->
 <ul>
-  <li type="disk"> 🔭 I’m currently working on something awesome.</li>
+  <li type="disk"> <p> 🔭 I’m currently working on something awesome. </p> </li>
  <ul>
 <!--
 **Prince909056/Prince909056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
