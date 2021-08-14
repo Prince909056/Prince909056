@@ -1,4 +1,4 @@
-### Hi there , I'm Prince Chand 👋 
+<h1 style="text-align: center;"> Hi there , I'm Prince Chand 👋 </h1>
 <hr>
 <!--
 **Prince909056/Prince909056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
