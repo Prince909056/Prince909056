@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there , I'm Prince Chand 👋 </h1>
 <h4 align="center"> I'm passionate front-end web developer from India <h4>
   
- 🔭 I’m currently working on something awesome.
- 📫 How to reach me: prin909056@gmail.com
+ - 🔭 I’m currently working on something awesome.
+ - 📫 How to reach me: prin909056@gmail.com
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
