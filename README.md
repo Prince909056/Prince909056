@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there , I'm Prince Chand 👋 </h1>
+<h3 align="center"> I'm passionate front end web developer from India <h3>
 <!--
 **Prince909056/Prince909056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
