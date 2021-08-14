@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there , I'm Prince Chand 👋 </h1>
-<h4 align="center"> I'm passionate front-end web developer from India <h4>
+<h3 align="center"> I'm passionate front-end web developer from India </h3>
   
  - 🔭 I’m currently working on something awesome.
  - 📫 How to reach me: prin909056@gmail.com
