@@ -1,16 +1,21 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1427635658668060680/1629210990/1080x360)
-<h1 align="center"> Hi there , I'm Prince Chand 👋 </h1>
+<h1> Hi there 👋, I'm Prince Chand </h1>
 <h3 align="center"> I'm passionate front-end web developer from India </h3>
   
- - 🔭 I’m currently working on something awesome.
- - 📫 How to reach me: prin909056@gmail.com
-<!-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * 👨‍💻 I'm a self learner.
+ * 💻 Mostly working on web-technologies.
+ * ✍ A UI & UX desiner and developer.
+ * ✍ I'm currentlly learning css, javascript.
+ * 😳I'm looking for a front-end web developer job.
+ * 🔭 I’m currently working on something awesome.
+ * 📫 How to reach me: prin909056@gmail.com
+ <img scr="https://twitter.com/Prince_Chand_/status/1427874642597842945/photo/1" alt="" width="240px" /> <img scr="https://twitter.com/Prince_Chand_/status/1427874779919314944/photo/1" alt="" width="240px" />
+ 
+## Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Prince909056) 
+
+## Languages and Tools
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince909056&show_icons=true&theme=radical)
 
