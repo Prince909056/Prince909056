@@ -8,8 +8,9 @@
  * ✍ I'm currentlly learning css, javascript.
  * 😳I'm looking for a front-end web developer job.
  * 🔭 I’m currently working on something awesome.
- * 📫 How to reach me: prin909056@gmail.com  <br>
-[<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg' alt='' width='240'>]  [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg' alt='' width='240'>]
+ * 📫 How to reach me: prin909056@gmail.com
+ ##
+ <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg' alt='' width='256'> <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg' alt='' width='256'>
  
 ## Connect with me
 [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-twitter-circled-50.png' alt='twitter' height='40'>](https://twitter.com/Prince_Chand_) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-linkedin-50.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prince-chand-1993941b6//) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-instagram-logo-50.png' alt='instagram' height='40'>](https://www.instagram.com/prince.ch_//) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-github-50.png' alt='github' height='40'>](https://github.com/Prince909056)  
