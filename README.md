@@ -9,7 +9,7 @@
  * 😳I'm looking for a front-end web developer job.
  * 🔭 I’m currently working on something awesome.
  * 📫 How to reach me: prin909056@gmail.com
- <img scr="https://twitter.com/Prince_Chand_/status/1427874642597842945/photo/1" alt="" width="240px" /> <img scr="https://twitter.com/Prince_Chand_/status/1427874779919314944/photo/1" alt="" width="240px" />
+ <img scr="https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg" alt="" /> <img scr="https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg" alt="" />
  
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Prince909056) 
