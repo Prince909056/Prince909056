@@ -8,8 +8,7 @@
  * ✍ I'm currentlly learning css, javascript.
  * 😳I'm looking for a front-end web developer job.
  * 🔭 I’m currently working on something awesome.
- * 📫 How to reach me: prin909056@gmail.com
-<br>
+ * 📫 How to reach me: prin909056@gmail.com <br><br>
  <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg' alt='' width='256'> <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg' alt='' width='256'>
  
 ## Connect with me
