@@ -9,7 +9,8 @@
  * 😳I'm looking for a front-end web developer job.
  * 🔭 I’m currently working on something awesome.
  * 📫 How to reach me: prin909056@gmail.com
- ![I am GitHub Readme Generator's creator](https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg) ![I am GitHub Readme Generator's creator](https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg)
+ <br>
+ ![alt-text-1](https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg) ![alt-text-2](https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg)
  
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Prince909056) 
