@@ -12,7 +12,7 @@
  ![alt-text-1](https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg) ![alt-text-2](https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg)
  
 ## Connect with me
-[<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-github-50.png' alt='github' height='40'>](https://github.com/https://github.com/Prince909056) 
+[<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-github-50.png' alt='github' height='40'>](https://github.com/Prince909056) 
 
 ## Languages and Tools
 
