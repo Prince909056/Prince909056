@@ -4,7 +4,7 @@
   
  * 👨‍💻 I'm a self learner.
  * 💻 Mostly working on web-technologies.
- * ✍ A UI & UX desiner and developer.
+ * ✍ UI & UX desiner and developer.
  * ✍ I'm currentlly learning css, javascript.
  * 😳I'm looking for a front-end web developer job.
  * 🔭 I’m currently working on something awesome.
