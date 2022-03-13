@@ -19,5 +19,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince909056&show_icons=true&theme=radical)
 
-![svg](https://raw.githubusercontent.com/Prince909056/github-profile-3d-contrib/main/docs/profile-night-rainbow.svg)
+![svg](https://raw.githubusercontent.com/Prince909056/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
