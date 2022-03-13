@@ -21,3 +21,4 @@
 
 ![svg](https://raw.githubusercontent.com/Prince909056/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+[Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
