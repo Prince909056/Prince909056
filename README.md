@@ -5,7 +5,7 @@
  * 👨‍💻 I'm a self learner.
  * 💻 Mostly working on web-technologies.
  * ✍ UI & UX desiner and developer.
- * ✍ I'm currentlly learning css, javascript.
+ * ✍ I'm currentlly learning javascript.
  * 😳I'm looking for a front-end web developer job.
  * 🔭 I’m currently working on something awesome.
  * 📫 How to reach me: [Here](https://www.linkedin.com/in/prince-chand-1993941b6) <br><br>
