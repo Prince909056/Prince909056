@@ -1,13 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1427635658668060680/1629210990/1080x360)
 <h1> Hi there 👋, I'm Prince Chand </h1>
-<h3 align="center"> I'm passionate front-end web developer from India </h3>
+<h3 align="center"> I'm passionate Dot Net developer from India </h3>
   
  * 👨‍💻 I'm a self learner.
- * 💻 Mostly working on web-technologies.
- * ✍ UI & UX desiner and developer.
- * ✍ I'm currentlly learning javascript.
- * 😳I'm looking for a front-end web developer job.
- * 🔭 I’m currently working on something awesome.
+ * 💻 Mostly working on Full Stack Technology.
+ * ✍ Dot Net developer.
+ * ✍ I'm currentlly learning Web API | Azure.
+ * 😳 I'm currently working for an Global IT company as an Jr. Software Developer.
+ * 🔭 I’m very ambitious person.
  * 📫 How to reach me: [Here](https://www.linkedin.com/in/prince-chand-1993941b6) <br><br>
  <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg' alt='' width='256'> <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg' alt='' width='256'>
  
