@@ -1,23 +1,119 @@
-<!-- ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1427635658668060680/1629210990/1080x360) -->
-<h1> Hi there 👋, I'm Prince Chand </h1>
-<h3 align="center"> I'm passionate Dot Net developer from India </h3>
-  
- * 👨‍💻 I'm a self learner.
- * 💻 Mostly working on Full Stack Technology.
- * ✍ Dot Net developer.
- * ✍ I'm currentlly learning Web API | Azure.
- * 😳 I'm currently working for an Global IT company as an Jr. Software Developer.
- * 🔭 I’m very ambitious person.
- * 📫 How to reach me: [Here](https://www.linkedin.com/in/prince-chand-1993941b6) <br><br>
- <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-1.jpg' alt='' width='256'> <img src='https://github.com/Prince909056/Prince909056/blob/main/logo/showcase-2.jpg' alt='' width='256'>
- 
-## Connect with me
-[<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-twitter-circled-50.png' alt='twitter' height='40'>](https://twitter.com/Prince_Chand_) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-linkedin-50.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prince-chand-1993941b6) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-instagram-logo-50.png' alt='instagram' height='40'>](https://www.instagram.com/prince.ch_) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-github-50.png' alt='github' height='40'>](https://github.com/Prince909056) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-kaggle-an-online-community-of-data-scientists-and-machine-learners,-owned-by-google-48.png' alt='kaggle' height='40'>](https://www.kaggle.com/princechand) 
+<h1 align="center">Hi 👋, I'm Prince Chand</h1>
 
-## Languages and Tools
-[<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-html-5-50.png' alt='html5' height='40'>](https://www.w3schools.com/html/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-css3-50.png' alt='css3' height='40'>](https://www.w3schools.com/css/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-javascript-50.png' alt='javascript' height='40'>](https://www.w3schools.com/js/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-c%2B%2B-50.png' alt='c++' height='40'>](https://www.w3schools.com/CPP/default.asp) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-python-50.png' alt='python' height='40'>](https://www.python.org/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-git-50.png' alt='git' height='40'>](https://git-scm.com/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-github-50.png' alt='github' height='40'>](https://github.com/Prince909056) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-visual-studio-code-2019-50.png' alt='vscode' height='40'>](https://code.visualstudio.com/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-sublime-text-50.png' alt='sublimetext-3' height='40'>](https://www.sublimetext.com/3) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-anaconda-50.png' alt='anaconda' height='40'>](https://www.anaconda.com/) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-adobe-photoshop-50.png' alt='photoshop' height='40'>](https://www.photoshop.com/en) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-adobe-xd-50.png' alt='adobe-xd' height='40'>](https://www.adobe.com/products/xd/pricing/individual.html) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/icons8-lunacy-50.png' alt='lunacy' height='40'>](https://www.microsoft.com/en-us/p/lunacy-graphic-design-editor/9pnlmkkpcljj#activetab=pivot:overviewtab) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/more%20logo/icons8-adobe-premiere-pro-50.png' alt='premiere-pro' height='40'>](https://www.adobe.com/in/products/premiere.html) [<img src='https://github.com/Prince909056/Prince909056/blob/main/logo/more%20logo/icons8-figma-50.png' alt='figma' height='40'>](https://www.figma.com/downloads/) <br><br>
+<h3 align="center">
+  Software Engineer • .NET Developer • Full-Stack Developer • AI Enthusiast
+</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince909056&show_icons=true&theme=radical)
+<p align="center">
+  Building scalable, maintainable & intelligent applications with .NET, Angular, Cloud & AI.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prince909056&label=Profile%20Views&style=flat" alt="Prince Chand Profile Views" />
+</p>
 
+---
 
+## 👨‍💻 About Me
+
+- 💼 Software Engineer with **3+ years of experience** in full-stack development
+- ⚡ Specialized in **ASP.NET Core, C#, REST APIs, Angular & SQL**
+- 🏗️ Building applications using **Clean Architecture, CQRS, Repository Pattern & SOLID principles**
+- ☁️ Experienced with cloud technologies including **Microsoft Azure & AWS**
+- 🤖 Exploring **Generative AI, RAG, AI Agents & Agentic AI**
+- 🧠 Interested in integrating **LLMs & AI capabilities into real-world applications**
+- 🚀 Focused on **clean code, scalable architecture, performance & maintainability**
+- 📚 Continuously learning and experimenting with modern **Software Engineering & AI technologies**
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+`ASP.NET Core` • `C#` • `Web API` • `Entity Framework Core` • `LINQ` • `REST APIs`
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind" />
+</p>
+
+`Angular` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Bootstrap` • `Tailwind CSS`
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+`SQL Server` • `PostgreSQL` • `MySQL` • `Supabase`
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,githubactions" />
+</p>
+
+`Azure` • `AWS` • `Docker` • `Git` • `GitHub` • `GitHub Actions`
+
+### 🧰 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
+</p>
+
+`Visual Studio` • `VS Code` • `Postman`
+
+---
+
+## 🤖 AI & Currently Exploring
+
+<p align="center">
+  <b>Generative AI</b> •
+  <b>RAG</b> •
+  <b>AI Agents</b> •
+  <b>Agentic AI</b> •
+  <b>LangChain</b> •
+  <b>Vector Databases</b> •
+  <b>LLM Integration</b>
+</p>
+
+<p align="center">
+  Exploring how modern AI technologies can be integrated with
+  <b>.NET and full-stack applications</b> to build intelligent software.
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Prince909056&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="Prince Chand's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince909056&layout=compact&theme=github_dark&hide_border=true"
+    alt="Prince Chand's Most Used Languages"
+  />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering    ████████████████████   .NET / ASP.NET Core
+Frontend Development   ███████████████████░   Angular / TypeScript
+Cloud                  ██████████████░░░░░░   Azure / AWS
+AI Engineering         ███████████░░░░░░░░░   RAG / Agents / LLMs
