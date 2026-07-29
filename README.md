@@ -75,6 +75,12 @@
 
 ---
 
+## 🎓 Courses & Certifications
+
+- 🧹 **Clean Code** — Udemy · [View Certificate](https://www.udemy.com/certificate/UC-b4255959-f5c5-4308-9a21-88a8ff4ac0f4/)
+
+---
+
 ## 🤖 AI & Currently Exploring
 
 <p align="center">
