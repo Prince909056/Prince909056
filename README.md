@@ -9,7 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prince909056&label=Profile%20Views&style=flat" alt="Prince Chand Profile Views" />
+  <a href="https://www.linkedin.com/in/prince-chand-1993941b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/Prince909056">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </p>
 
 ---
