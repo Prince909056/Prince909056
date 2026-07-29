@@ -96,6 +96,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -111,6 +112,15 @@
     alt="Prince Chand's Most Used Languages"
   />
 </p>
+-->
+## 🚀 What I'm Currently Exploring
+
+- 🤖 Generative AI & LLM Applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 AI Agents & Agentic AI
+- 🔗 LangChain & Vector Databases
+- ☁️ Cloud-native development with Azure & AWS
+- ⚡ Building AI-powered applications with .NET
 
 ---
 
