@@ -100,16 +100,14 @@
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Prince909056&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Prince909056&show_icons=true"
     alt="Prince Chand's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince909056&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince909056&layout=compact"
     alt="Prince Chand's Most Used Languages"
   />
 </p>
