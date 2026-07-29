@@ -14,17 +14,7 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prince-chand-1993941b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/Prince909056">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Prince909056&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/prince-chand-1993941b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://github.com/Prince909056"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a> <img src="https://komarev.com/ghpvc/?username=Prince909056&label=Views&style=for-the-badge" alt="Profile Views"></p>
 
 ---
 
