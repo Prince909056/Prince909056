@@ -102,8 +102,6 @@
   <b>.NET and full-stack applications</b> to build intelligent software.
 </p>
 
----
-
 <!--
 ## 📊 GitHub Analytics
 
@@ -132,10 +130,19 @@
 
 ---
 
-## 🎯 Current Focus
+<!-- ## 🎯 Current Focus
 
 ```text
 Backend Engineering    ████████████████████   .NET / ASP.NET Core
 Frontend Development   ███████████████████░   Angular / TypeScript
 Cloud                  ██████████████░░░░░░   Azure / AWS
-AI Engineering         ███████████░░░░░░░░░   RAG / Agents / LLMs
+AI Engineering         ███████████░░░░░░░░░   RAG / Agents / LLMs -->
+
+## 🎯 Current Focus
+
+```text
+🔷 Backend       →  .NET • ASP.NET Core • REST APIs • Clean Architecture
+🔶 Frontend      →  Angular • TypeScript • Tailwind CSS
+🟢 Cloud         →  Azure • AWS • Docker
+🟣 AI            →  RAG • AI Agents • Agentic AI • LLMs
+🟡 Architecture  →  CQRS • SOLID • Repository Pattern
