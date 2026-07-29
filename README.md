@@ -4,8 +4,14 @@
   Software Engineer • .NET Developer • Full-Stack Developer • AI Enthusiast
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   Building scalable, maintainable & intelligent applications with .NET, Angular, Cloud & AI.
+</p> -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+scalable+.NET+applications;Full-Stack+Developer+with+Angular;Exploring+Generative+AI+%26+RAG;Learning+AI+Agents+%26+Agentic+AI"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -115,14 +121,14 @@
   />
 </p>
 -->
-## 🚀 What I'm Currently Exploring
+<!-- ## 🚀 What I'm Currently Exploring
 
 - 🤖 Generative AI & LLM Applications
 - 🔎 Retrieval-Augmented Generation (RAG)
 - 🧠 AI Agents & Agentic AI
 - 🔗 LangChain & Vector Databases
 - ☁️ Cloud-native development with Azure & AWS
-- ⚡ Building AI-powered applications with .NET
+- ⚡ Building AI-powered applications with .NET -->
 
 ---
 
