@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer with **3+ years of experience** in full-stack development
+- 💼 Software Engineer with **3.8 years of experience** in full-stack development
 - ⚡ Specialized in **ASP.NET Core, C#, REST APIs, Angular & SQL**
 - 🏗️ Building applications using **Clean Architecture, CQRS, Repository Pattern & SOLID principles**
 - ☁️ Experienced with cloud technologies including **Microsoft Azure & AWS**
